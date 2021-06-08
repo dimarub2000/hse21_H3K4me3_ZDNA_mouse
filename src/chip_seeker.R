@@ -7,7 +7,8 @@ library(clusterProfiler)
 
 # NAME <- 'H3K4me3_MEL.ENCFF825RVT.mm10.filtered'
 # NAME <- 'H3K4me3_MEL.ENCFF176QEY.mm10.filtered'
-NAME <- 'mouseZ-DNA1'
+# NAME <- 'mouseZ-DNA1'
+NAME <- 'H3K4me3_MEL.intersect_with_mouseZ-DNA1'
 
 BED_FN <- paste0(DATA_DIR, NAME, '.bed')
 
