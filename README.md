@@ -45,8 +45,18 @@ GenomeBrowser session: http://genome.ucsc.edu/s/DSRub/hse21_H3K4me3_ZDNA_mouse
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/chip_seeker.H3K4me3_MEL.intersect_with_mouseZ-DNA1.plotAnnoPie.pdf.png-1.png)
 
 ### Визуализация исходных участков ДНК и пересечения с гистоновой меткой
-Map7 chr10	20,148,578-20,149,072
+Пересечение с Map7 chr10:20,148,578-20,149,072
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/intersect_Map7.png)
 
-Gid4 chr11	60,417,294-60,417,680
+Пересечение с Gid4 chr11:60,417,294-60,417,680
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/intersect_Gid4.png)
+
+### Ассоциация пересечений с генами
+Количество пиков, которые удалось проассоциировать: 644
+Количество уникальных генов: 527
+
+### GO анализ
+
+Общая информация
+
+Наиболее важные категории
