@@ -42,3 +42,7 @@ GenomeBrowser session: http://genome.ucsc.edu/s/DSRub/hse21_H3K4me3_ZDNA_mouse
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/len_hist.H3K4me3_MEL.intersect_with_mouseZ-DNA1.pdf.png-1.png)
 
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/chip_seeker.H3K4me3_MEL.intersect_with_mouseZ-DNA1.plotAnnoPie.pdf.png-1.png)
+
+## Intersection visualisation
+
+![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/intersect_Map7.png)
