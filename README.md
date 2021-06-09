@@ -10,17 +10,17 @@ GenomeBrowser session: http://genome.ucsc.edu/s/DSRub/hse21_H3K4me3_ZDNA_mouse
 ## Анализ пиков гистоновой метки
 ### Распределение длин участков
 #### ENCFF825RVT
-##### Перед фильтрацией
+Перед фильтрацией
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/filter_peaks.H3K4me3_MEL.ENCFF825RVT.mm10.init.hist.pdf.png-1.png)
 
-#### После фильтрации по прогу 4500
+После фильтрации по прогу 4500
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/filter_peaks.H3K4me3_MEL.ENCFF825RVT.mm10.filtered.hist.pdf.png-1.png)
 
 ### ENCFF176QEY
-#### Перед фильтрацией
+Перед фильтрацией
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/filter_peaks.H3K4me3_MEL.ENCFF176QEY.mm10.init.hist.pdf.png-1.png)
 
-#### После фильтрации по прогу 4500
+После фильтрации по прогу 4500
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/filter_peaks.H3K4me3_MEL.ENCFF176QEY.mm10.filtered.hist.pdf.png-1.png)
 
 ### Расположение пиков относительно аннотированных генов
@@ -45,9 +45,8 @@ GenomeBrowser session: http://genome.ucsc.edu/s/DSRub/hse21_H3K4me3_ZDNA_mouse
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/chip_seeker.H3K4me3_MEL.intersect_with_mouseZ-DNA1.plotAnnoPie.pdf.png-1.png)
 
 ### Визуализация исходных участков ДНК и пересечения с гистоновой меткой
-
-#### Map7 chr10	20,148,578-20,149,072
+Map7 chr10	20,148,578-20,149,072
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/intersect_Map7.png)
 
-#### Gid4 chr11	60,417,294-60,417,680
+Gid4 chr11	60,417,294-60,417,680
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/intersect_Gid4.png)
