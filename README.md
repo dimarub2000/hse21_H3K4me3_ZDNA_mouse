@@ -45,5 +45,10 @@ GenomeBrowser session: http://genome.ucsc.edu/s/DSRub/hse21_H3K4me3_ZDNA_mouse
 
 ## Intersection visualisation
 
-### Map7 chr10:20,148,223-20,149,859
+#### Map7 chr10	20,148,578-20,149,072
+
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/intersect_Map7.png)
+
+#### Gid4 chr11	60,417,294-60,417,680
+
+![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/intersect_Gid4.png)
