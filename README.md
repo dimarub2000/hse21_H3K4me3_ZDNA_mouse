@@ -59,6 +59,7 @@ GenomeBrowser session: http://genome.ucsc.edu/s/DSRub/hse21_H3K4me3_ZDNA_mouse
 ### GO анализ
 
 Общая информация
+
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/pantherdb_GO_analysis_results.png)
 
 Наиболее важные категории
