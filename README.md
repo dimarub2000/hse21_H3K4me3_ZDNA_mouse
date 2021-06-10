@@ -85,3 +85,5 @@ GenomeBrowser session: http://genome.ucsc.edu/s/DSRub/hse21_H3K4me3_ZDNA_mouse
  cat *.filtered.bed | sort -k1,1 -k2,2n | bedtools merge > H3K4me3_H1.merge.hg19.bed - объединение файлов и их сортировка
 
  bedtoold intersect -a [file] -b [file] - пересечение генов
+
+Также использовалсиь скрипты из папки src - Rscript file
