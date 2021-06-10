@@ -66,22 +66,22 @@ GenomeBrowser session: http://genome.ucsc.edu/s/DSRub/hse21_H3K4me3_ZDNA_mouse
 ![alt text](https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse/blob/main/images2png/pantherdb_GO_analysis_top.png)
 
 ## Использованные команды
-### wget [link] – скачивание файлов
+ wget [link] – скачивание файлов
 
-### zcat [file] | cut -f1-5 > [file] - обрезаниие первых пяти столбцов в архииве
+ zcat [file] | cut -f1-5 > [file] - обрезаниие первых пяти столбцов в архииве
 
-### liftOver [oldFile][map.chain][newFile][unMapped] - конвертация координат
+ liftOver [oldFile][map.chain][newFile][unMapped] - конвертация координат
 
-### git clone [link] - скачивание репозитория с гитхаба
+ git clone [link] - скачивание репозитория с гитхаба
 
-### git pull - pull-request
+ git pull - pull-request
 
-### git add . - добавление файла на сервер
+ git add . - добавление файла на сервер
 
-### git commit -m 'messgae' - commit с собщением
+ git commit -m 'messgae' - commit с собщением
 
-### git push
+ git push
 
-### cat *.filtered.bed | sort -k1,1 -k2,2n | bedtools merge > H3K4me3_H1.merge.hg19.bed - объединение файлов и их сортировка
+ cat *.filtered.bed | sort -k1,1 -k2,2n | bedtools merge > H3K4me3_H1.merge.hg19.bed - объединение файлов и их сортировка
 
-### bedtoold intersect -a [file] -b [file] - пересечение генов
+ bedtoold intersect -a [file] -b [file] - пересечение генов
