@@ -70,20 +70,12 @@ GenomeBrowser session: http://genome.ucsc.edu/s/DSRub/hse21_H3K4me3_ZDNA_mouse
 
  zcat [file] | cut -f1-5 > [file] - обрезаниие первых пяти столбцов в архииве
 
- liftOver [oldFile][map.chain][newFile][unMapped] - конвертация координат
+ liftOver [oldFile][map.chain][newFile][unMapped] - конвертация координат (понадобилось для группового проекта)
 
- git clone [link] - скачивание репозитория с гитхаба
-
- git pull - pull-request
-
- git add . - добавление файла на сервер
-
- git commit -m 'messgae' - commit с собщением
-
- git push
-
+ git clone [link], pull, add, commit, push - взаимодействие с репозиторием гитхаб
+ 
  cat *.filtered.bed | sort -k1,1 -k2,2n | bedtools merge > H3K4me3_H1.merge.hg19.bed - объединение файлов и их сортировка
 
  bedtoold intersect -a [file] -b [file] - пересечение генов
 
-Также использовалсиь скрипты из папки src - Rscript file
+Rscript file - запуски скриптов из папки src 
